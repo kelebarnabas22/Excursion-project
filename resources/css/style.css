@@ -20,7 +20,8 @@ html {
 
 .introduction {
     color: aquamarine;
-    font-size: 16px;  
+    font-size: 16px; 
+    transition: all 0.2s linear 
 }
 
 .video {
@@ -59,3 +60,32 @@ html {
 
 }
 
+.comingsoon h2 {
+    color: white;
+    position: relative;
+    top: 190px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 300;
+    font-size: 42px;
+}
+
+.secondintro {
+    color: aquamarine;
+    font-size: 16px; 
+    position: relative;
+    top: 230px;
+    transition: all 0.2s linear;
+}
+
+.copyright {
+    color: grey;
+    text-align: right;
+    position: relative;
+    top: 250px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-right: 7px;   
+}
+
+a:hover, a:focus {
+    color: #2a84c4;
+}
