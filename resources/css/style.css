@@ -10,7 +10,7 @@ html {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-.upperarea p {
+.upperarea h1 {
     color: white;
     font-weight: normal;
     font-size: 50px;
@@ -45,4 +45,17 @@ html {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
+.picture {
+    position: relative;
+    top: 120px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.icon {
+    position: relative;
+    top: 150px;
+
+}
 
